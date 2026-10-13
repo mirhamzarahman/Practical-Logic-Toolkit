@@ -255,7 +255,3 @@ By exploring this project, developers can practice:
 ## 📄 License
 
 This project is distributed under the **MIT License**. See the `LICENSE` file for details.
-
----
-
-> Built as a practical demonstration of clean JavaScript, reusable software design, and efficient algorithms.
